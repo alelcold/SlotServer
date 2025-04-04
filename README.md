@@ -1,0 +1,2 @@
+# SlotServer
+SideProject SlotProject
